@@ -30,9 +30,24 @@ I am a **Marketing Strategy & Data professional** bridging the gap between acade
 ---
 
 ## 📈 2026 "Build in Public" Projects
-- 🐍 **Marketing ROI Automator:** A Python script designed to calculate true net profit after COGS and ad spend.
-- 📊 **RFM Customer Segmentation:** Using Pandas to identify high-value vs. at-risk customer segments from sales datasets.
+### Project 1 — Customer Segmentation Dashboard ✔️
+**Tools:** Python (Pandas, NumPy) · Power BI  
+**Dataset:** 1,000 e-commerce customers  
 
+**What I built:**
+- Cleaned and explored a marketing dataset in Python
+- Segmented customers into 4 groups: Champion, At Risk, Potential, Lost
+- Exported data to Power BI and built an interactive dashboard
+
+**Key insight:** At Risk customers have the highest average spend ($436) —
+making them the #1 priority for re-engagement campaigns.
+
+![Dashboard](customer%20segment%20dashboard.png)
+
+---
+
+- 🐍 **Marketing ROI Automator:** A Python script designed to calculate 
+true net profit after COGS and ad spend. *(Coming soon)*
 ---
 
 ## 🌍 Legal Status & Mobility (2026 Ready)
