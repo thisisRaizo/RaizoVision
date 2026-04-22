@@ -15,7 +15,7 @@ I am a **Marketing Strategy & Data professional** bridging the gap between acade
 ---
 
 ## 🛠️ Technical Toolkit
-- **Data:** Python (Pandas, NumPy), SQL (In Progress), Excel.
+- **Data:** Python (Pandas, NumPy), Power BI, SQL (In Progress), Excel.
 - **Strategy:** Metaverse Marketing Strategy, Immersive Ad Tech, Performance Analytics.
 - **Finance:** ROI Optimization, Budget Forecasting, Accounting Principles for Marketers.
 
@@ -39,7 +39,7 @@ I am a **Marketing Strategy & Data professional** bridging the gap between acade
 - Segmented customers into 4 groups: Champion, At Risk, Potential, Lost
 - Exported data to Power BI and built an interactive dashboard
 
-**Key insight:** At Risk customers have the highest average spend ($436) —
+**Key insight:** At-risk customers have the highest average spend ($436) —
 making them the #1 priority for re-engagement campaigns.
 
 ![Dashboard](customer%20segment%20dashboard.png)
@@ -53,7 +53,7 @@ true net profit after COGS and ad spend. *(Coming soon)*
 ## 🌍 Legal Status & Mobility (2026 Ready)
 As an EU-based Master’s graduate, I am highly qualified for the **EU Blue Card 2026** pathway. I am ready to relocate for impactful opportunities in **Germany, the Netherlands, Poland, or Hungary.**
 
-- **LinkedIn:** (https://www.linkedin.com/in/akbarsoltani)
+- **LinkedIn:** [linkedin.com/in/akbarsoltani](https://www.linkedin.com/in/akbarsoltani)
 - **X (Twitter):** [@RaizoVision](https://x.com/RaizoVision)
 
 *"Seeing the patterns others miss."*
