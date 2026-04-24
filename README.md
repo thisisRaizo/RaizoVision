@@ -51,8 +51,8 @@ making them the #1 priority for re-engagement campaigns.
 **Dataset:** 5 marketing campaigns across channels
 
 **What I built:**
-- Calculated key KPIs: ROAS, CAC, ROI%, Conversion Rate
-- Identified a campaign losing money despite the biggest budget
+- Calculated ROAS, CAC, ROI%, Conversion Rate for each campaign
+- Identified the campaign losing money despite the biggest budget
 - Built a 4-visual Power BI dashboard comparing all campaigns
 
 **Key insight:** Instagram had the highest budget ($12K) but the only 
@@ -62,14 +62,13 @@ negative ROI (-18%). Referral Program spent $3K and returned 953% ROI.
 
 ---
 
-- 🐍 **Marketing ROI Automator:** A Python script designed to calculate 
-true net profit after COGS and ad spend. *(Coming soon)*
+* 🐍 **Marketing ROI Automator:** Coming soon
 ---
 
 ## 🌍 Legal Status & Mobility (2026 Ready)
 As an EU-based Master’s graduate, I am highly qualified for the **EU Blue Card 2026** pathway. I am ready to relocate for impactful opportunities in **Germany, the Netherlands, Poland, or Hungary.**
 
-- **LinkedIn:** [linkedin.com/in/akbarsoltani](https:/www.linkedin.com/in/akbarsoltani)
-- **X (Twitter):** [@RaizoVision](https:/x.com/RaizoVision)
+- **LinkedIn:** [linkedin.com/in/akbarsoltani](https://www.linkedin.com/in/akbarsoltani)
+- **X (Twitter):** [@RaizoVision](https://x.com/RaizoVision)
 
 *"Seeing the patterns others miss."*
