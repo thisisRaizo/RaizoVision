@@ -1,0 +1,6 @@
+campaign_id,campaign_name,channel,budget_spent,impressions,clicks,leads,customers_acquired,revenue_generated,ROAS,CAC,conversion_rate_%,ROI,ROI_%,CTR_%
+C001,Summer Sale Email,Email,5000,85000,4200,620,198,24500,4.9,25.25,31.9,19500,390.0,4.94
+C002,Instagram Awareness,Instagram,12000,420000,8800,480,89,9800,0.82,134.83,18.5,-2200,-18.3,2.1
+C003,Google Search Ads,Google,8500,95000,6200,890,312,48200,5.67,27.24,35.1,39700,467.1,6.53
+C004,Referral Program,Referral,3000,15000,1800,310,187,31600,10.53,16.04,60.3,28600,953.3,12.0
+C005,Facebook Retargeting,Facebook,9500,310000,12400,740,203,22100,2.33,46.8,27.4,12600,132.6,4.0
