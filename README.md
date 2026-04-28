@@ -62,7 +62,23 @@ negative ROI (-18%). Referral Program spent $3K and returned 953% ROI.
 
 ---
 
-* 🐍 **Marketing ROI Automator:** Coming soon
+### Project 3 — Customer Churn Analysis ✔️
+**Tools:** Python (Pandas, NumPy) · Power BI
+**Dataset:** 1,000 customers with behavioral data
+
+**What I built:**
+- Built a churn scoring model based on 6 behavioral signals
+- Categorized customers into Low, Medium and High risk groups
+- Calculated $33,908 monthly revenue at risk
+- Built a 5-visual Power BI dashboard
+
+**Key insight:** Complaints are the strongest churn signal — 
+zero complaints = 6.3% churn risk, 5 complaints = 61% churn risk.
+
+![Dashboard](Project3_ChurnAnalysis.png)
+
+---
+* 🔍 **Project 4 — Behavioral Data Deep Dive:** Coming soon
 ---
 
 ## 🌍 Legal Status & Mobility (2026 Ready)
