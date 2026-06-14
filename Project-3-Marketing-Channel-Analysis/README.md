@@ -1,4 +1,4 @@
-# Marketing Channel Performance Analysis
+# Marketing Channel Performance Analysis (Project 4)
 
 End-to-end marketing analytics project using Google BigQuery, Python, and Power BI to analyze channel performance from Google Analytics sample e-commerce data (July 2017).
 
