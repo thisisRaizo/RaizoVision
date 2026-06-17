@@ -82,7 +82,6 @@ zero complaints = 6.3% churn risk, 5 complaints = 61% churn risk.
 
 
 **Tools:** Google BigQuery (SQL) · Python (Pandas) · Power BI
-
 **Dataset:** Google Analytics Sample — Real e-commerce data (July 2017)
 
 **What I built:**
