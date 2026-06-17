@@ -89,7 +89,7 @@ zero complaints = 6.3% churn risk, 5 complaints = 61% churn risk.
 
 Key insight: Direct traffic drove 99.9% of revenue — strong brand awareness but dangerous channel dependency. July 5th showed a 5x session spike revealing a hidden promotional event in the data.
 
-→ Full project: github.com/thisisRaizo/RaizoVision/tree/main/Project-3-Marketing-Channel-Analysis
+→ Full project: https://github.com/thisisRaizo/RaizoVision/tree/main/Project-3-Marketing-Channel-Analysis
 ---
 
 ## 🌍 Legal Status & Mobility (2026 Ready)
