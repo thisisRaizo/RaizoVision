@@ -78,7 +78,18 @@ zero complaints = 6.3% churn risk, 5 complaints = 61% churn risk.
 ![Dashboard](Project3_ChurnAnalysis.png)
 
 ---
-* 🔍 **Project 4 — Behavioral Data Deep Dive:** Coming soon
+### Project 4 — Marketing Channel Performance Analysis ✔️
+**Tools:** Google BigQuery (SQL) · Python (Pandas) · Power BI
+**Dataset:** Google Analytics Sample — Real e-commerce data (July 2017)
+
+**What I built:**
+- Wrote SQL queries on Google BigQuery to extract channel performance and 31-day daily trend data
+- Processed and derived metrics in Python: conversion rate, revenue per session, 7-day rolling average
+- Built a 4-visual Power BI dashboard: revenue by channel, daily trend, conversion rate, KPI cards
+
+Key insight: Direct traffic drove 99.9% of revenue — strong brand awareness but dangerous channel dependency. July 5th showed a 5x session spike revealing a hidden promotional event in the data.
+
+→ Full project: github.com/thisisRaizo/RaizoVision/tree/main/Project-3-Marketing-Channel-Analysis
 ---
 
 ## 🌍 Legal Status & Mobility (2026 Ready)
